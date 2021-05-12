@@ -1,1 +1,1 @@
-<a href="https://acepilot10.itch.io/dino-man">PLAY</a>
+[CLICK TO PLAY](https://acepilot10.itch.io/dino-man)
